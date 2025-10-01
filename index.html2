@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cherish's Dad</title>
+
+    <style>
+        body{
+        background-color: rgb(164, 235, 255);
+        margin: 0;
+        padding: 0;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        }
+
+        header {
+            background-color: rgb(79, 182, 255);
+            text-align: center;
+            padding: 10px 0;
+        }
+
+        header a {
+            font-size: 20px;
+            color: rgb(8, 0, 255);
+            margin: 0 15px;
+            transition: color 0,3s ease;
+        }
+
+        header a:hover {
+            color: rgb(255, 255, 255);
+        }
+
+        h1 {
+            text-align: center;
+            color: rgb(0, 115, 255);
+            font-size: 15px;
+        }
+
+        img {
+            margin-left: auto;
+            margin-right: auto;
+            display: block;
+        }
+
+        ul {
+            margin-left: auto;
+            margin-right: auto;
+            width: fit-content;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <a>Home</a>
+    </header>
+    <h1>This is my dad</h1>
+    <h1> Rifkie Widjaya </h1>
+    <img src="whatsApp Image 2025-07-01 at 07.44.14_754036af.jpg" width="300" height="200">
+
+    <style>
+        table, th, td {
+            border: 1px solid rgb(9, 0, 92);
+            border-collapse: collapse;
+        }
+
+        table {
+            margin-left: auto;
+            margin-right: auto;
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <tr style="background-color: rgb(147, 190, 255);">
+            <th style="color: rgb(0, 0, 0)">Biodata</th>
+            <th style="color: rgb(0, 0, 0)">Description</th>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td>Rifkie Widjaya</td>
+        </tr>
+        <tr>
+            <td>Date of birth</td>
+            <td>9 December 1977</td>
+        </tr>
+        <tr>
+            <td>Status</td>
+            <td>Married</td>
+        </tr>
+        <tr>
+            <td>Wife</td>
+            <td>Chris Meilina</td>
+        </tr>
+        <tr>
+            <td>Children</td>
+            <td>Clement Benaya Widjaya & Cherish Priella Widjaya</td>
+        </tr>
+        <tr>
+            <td>Hobby</td>
+            <td>Cycling & Running</td>
+        </tr>
+    </table>
+</body>
+</html>
+</body>
+</html>
